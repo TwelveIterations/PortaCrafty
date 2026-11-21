@@ -5,7 +5,7 @@
     "container.craftingslots.portable_crafting": "Criação Portátil",
     "container.craftingslots.inventory_crafting": "Criação de inventário",
 
-    "key.categories.craftingslots": "Crafting Slots",
+    "key.category.craftingslots.default": "Crafting Slots",
     "key.craftingslots.portable_crafting": "Abrir Criação Portátil",
     "key.craftingslots.back_to_inventory": "Voltar ao Inventário",
 
