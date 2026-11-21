@@ -4,7 +4,7 @@
 
     "container.craftingslots.inventory_crafting": "背包合成",
 
-    "key.categories.craftingslots": "Crafting Slots",
+    "key.category.craftingslots.default": "Crafting Slots",
     "key.craftingslots.portable_crafting": "打開便攜工作台",
 
     "itemGroup.craftingslots.craftingslots": "Crafting Slots"

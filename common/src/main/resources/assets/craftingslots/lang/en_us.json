@@ -5,7 +5,7 @@
     "container.craftingslots.portable_crafting": "Portable Crafting",
     "container.craftingslots.inventory_crafting": "Inventory Crafting",
 
-    "key.categories.craftingslots": "Crafting Slots",
+    "key.category.craftingslots.default": "Crafting Slots",
     "key.craftingslots.portable_crafting": "Open Portable Crafting",
     "key.craftingslots.back_to_inventory": "Back to Inventory",
 
